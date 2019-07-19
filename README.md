@@ -6,6 +6,7 @@ Did you ever want to try NFreg on your data? Here is the tutorial!
 ## How do I run this?
 There are two options:
 * **Locally**
+
 This requires standard scientific Python 3 environment. A simple way of getting that is installing [Anaconda](https://www.anaconda.com/distribution/#download-section).
 Run the following commands in your terminal:
 ```
@@ -14,6 +15,7 @@ cd NMFreg_tutorial
 jupyter notebook NMFreg_Tutorial_cerebellum_puck180430_6.ipynb
 ```
 * **Remotely** via Google Colab
+
 Click on <a href="https://colab.research.google.com/github/tudaga/NMFreg_tutorial/blob/master/NMFreg_Tutorial_cerebellum_puck180430_6.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>.
 
 ## Intro 
