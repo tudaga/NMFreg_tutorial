@@ -9,7 +9,8 @@ Do you have an application where NMFreg might help deconvolve your composite mea
 There are two options:
 * **Locally**
 
-This requires standard scientific Python 3 environment. A simple way of getting that is installing [Anaconda](https://www.anaconda.com/distribution/#download-section).
+Note: This requires standard scientific Python 3 environment. A simple way of getting that is installing [Anaconda](https://www.anaconda.com/distribution/#download-section).
+
 Run the following commands in your terminal:
 ```
 git clone https://github.com/tudaga/NMFreg_tutorial
