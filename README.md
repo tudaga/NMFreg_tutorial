@@ -1,5 +1,5 @@
 # NMFreg tutorial
-Did you ever want to try NFreg on your data? Here is the tutorial!
+Did you ever want to try NMFreg on your data? Here is the tutorial!
 
 **Coming soon!** Examples of other applications :)
 
